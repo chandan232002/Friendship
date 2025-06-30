@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Our Journey — Chandan & Adity</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>💖 Our Journey</h1>
+    <h2>Chandan Majumdar & Adity Chandrakar</h2>
+    <img src="illustration.png" alt="Chandan and Adity Cartoon" class="illustration" />
+
+    <div class="timeline">
+      <h3>📍 Timeline of Us</h3>
+      <ul>
+        <li>🗓️ 1st July 2024 – We met at TCS campus.</li>
+        <li>🥧 You brought me a pastry — and sweetness into my life.</li>
+        <li>📞 You got my number from HR, and destiny smiled.</li>
+        <li>💬 Conversations began... our story began.</li>
+        <li>❤️ We fell in love — hearts together across Chennai & Nagpur.</li>
+        <li>🎉 1st July 2025 – Our 1-Year Anniversary!</li>
+      </ul>
+    </div>
+
+    <div class="love-letter">
+      <h3>💌 A Letter to You, Adity</h3>
+      <p id="typed-text"></p>
+    </div>
+
+    <div class="ending">
+      <strong>
+        No matter the distance between Chennai and Nagpur,<br>
+        my heart has always been with you.<br>
+        Here's to many more years of love.<br>
+        Happy 1st Anniversary, Adity 💖 — Yours, Chandan
+      </strong>
+    </div>
+  </div>
+
+  <audio autoplay loop>
+    <source src="lofi.mp3" type="audio/mpeg">
+  </audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
